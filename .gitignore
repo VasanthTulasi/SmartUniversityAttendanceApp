@@ -1,0 +1,40 @@
+# Built outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+bin/
+build/
+out/
+
+# Gradle
+.gradle/
+local.properties
+gradle.properties
+
+# Firebase / Google Services — contains real API keys; never commit
+app/google-services.json
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/modules.xml
+*.original
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore files
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db
