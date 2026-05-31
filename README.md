@@ -1,4 +1,4 @@
-# SmartAttendance for Student
+# Smart University Attendance App
 
 An Android app that allows students to mark and view their attendance. Students authenticate via Firebase, enter a teacher-issued auth code, and the app verifies their GPS proximity to the classroom before recording attendance.
 
